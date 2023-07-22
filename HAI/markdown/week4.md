@@ -48,7 +48,7 @@ Test accuracy: 91.67%
 </table>
 
 
-$\rightarrow$ Feed Forward Network 보다 약 $4 \% \text{p}$ 향상
+$\rightarrow$ Feed Forward Network 보다 약 $4 {\%} {\text{p}}$ 향상
 
 
 #### 3. MobileNet(with pretrained weights)
@@ -77,7 +77,7 @@ Test accuracy: 92.27%
     </tr>
 </table>
 
-$\rightarrow$ CNN + MaxPool 보다 약 $0.6 \% \text{p}$ 향상
+$\rightarrow$ CNN + MaxPool 보다 약 $0.6 {\%} {\text{p}}$ 향상
 
 #### 4. MobileNet(without pretrained weights)
 
@@ -105,7 +105,7 @@ Test accuracy: 86.43%
     </tr>
 </table>
 
-$\rightarrow$ Pretrained Weights를 사용한 경우보다 약 $6 \% \text{p}$ 저하
+$\rightarrow$ Pretrained Weights를 사용한 경우보다 약 $6 {\%} {\text{p}}$ 저하
 
 ### 결과 분석
 ```
