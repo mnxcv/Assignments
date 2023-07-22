@@ -15,11 +15,9 @@
 
 #### ป็ม๘
 
-<img src = "../images/img1.png"/>
-
-<img src = "../images/img2.png"/>
-
-<img src = "../images/img3.png"/>
+<img src = "https://github.com/mnxcv/Assignments/blob/main/HAI/images/img1.png?raw=true"/>
+<img src = "https://github.com/mnxcv/Assignments/blob/main/HAI/images/img2.png?raw=true"/>
+<img src = "https://github.com/mnxcv/Assignments/blob/main/HAI/images/img3.png?raw=true"/>
 
 ---
 
